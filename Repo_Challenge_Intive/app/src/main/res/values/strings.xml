@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MasterDetailApp</string>
+    <string name="home_master">Profile Photos</string>
+    <string name="user_name">User Name: </string>
+    <string name="first_name">First Name: </string>
+    <string name="last_name">Last Name: </string>
+    <string name="email">E-Mail Address: </string>
+    <string name="image_profile_large_description">Imagen de Perfil </string>
+    <string name="endpoint_url">https://randomuser.me/api/?inc=name,email,login,picture</string>
+    <string name="profile_thumbnails">Profile Photos</string>
+</resources>
